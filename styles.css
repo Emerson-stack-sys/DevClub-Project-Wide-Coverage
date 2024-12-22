@@ -1,0 +1,113 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: "poppins", sans-serif;
+
+}
+
+header {
+    margin-top: 47px;
+    margin-left: 42px;
+
+
+}
+
+.link-menu {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 21px;
+    letter-spacing: 0.875px;
+    text-align: center;
+    color: #17233d;
+    margin-right: 32px;
+    cursor: pointer;
+
+
+
+
+}
+
+button-header {
+    padding: 15px 40px;
+    margin: 5px;
+    
+}
+
+.link-button-header {
+    font-weight: 500;
+    background-color: #4cb538;
+    color: aliceblue;
+    width: 124px;
+    height: 51px;
+    border-radius: 1px;
+    border: 1px;
+    cursor: pointer;
+
+}
+
+img {
+
+    margin-top: 163px;
+    margin-left: 182.18px;
+    width: 600px;
+    height: 500px;
+
+}
+
+h1 {
+
+    font-size: 62px;
+    font-weight: 700;
+    line-height: 82px;
+    letter-spacing: 0.5961538553237915px;
+    text-align: left;
+    margin-left: 800px;
+    margin-top: -320px;
+
+}
+
+main {
+    top: 25px;
+    left: 801px;
+
+
+
+}
+
+
+p {
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 33px;
+    letter-spacing: 0.5px;
+    text-align: left;
+    text-underline-position: from-font;
+    margin-left: 800px;
+    margin-top: 25px;
+
+
+}
+
+
+
+button-learn {
+    margin-top: 50px;
+    margin-left: 810px;
+
+}
+
+.link-button-Learn {
+
+color:rgb(127, 192, 170);
+    font-weight: 500;
+    line-height: 27px;
+    letter-spacing: 1px;
+    cursor: pointer;
+    background-color:#fafcfa;
+
+
+
+
+}
