@@ -8,6 +8,8 @@
 <img src="https://github.com/Emerson-stack-sys/FrontEnd-Ampla-cobertura/blob/main/img/img-Desk.png.png?raw=true" />
   <br>
   <h2> Um projeto Responsivo utilizado tecnologias</h2>
-  -CSS
+   -CSS
   <br>
   -HTML
+  <img src="https://github.com/Emerson-stack-sys/FrontEnd-Ampla-cobertura/blob/main/img/img-responsivo.png.png?raw=true" />
+ 
